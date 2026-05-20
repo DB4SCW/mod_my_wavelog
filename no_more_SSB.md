@@ -18,6 +18,10 @@ If it has a mode of SSB, but no submode, it will set USB, unless the TX-Band is 
 
 If you set a submode specifically (even the wrong one), it will leave it alone and take your input as is.
 
+Since this works on the database level, it does not matter where the data comes from. It works if you enter it, it works if you import an ADIF file, it works even for Waveloggate or similar sources.
+
+Important: This works regardless of the logged in user!!!
+
 ## Installation
 
 Run this statement in your DB-IDE of choice. Include the DELIMITER statement on the top and the bottom.
