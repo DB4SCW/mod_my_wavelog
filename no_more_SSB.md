@@ -12,7 +12,7 @@ This is a MySQL trigger that forces the Submode depending on the band if none is
 
 ## What does this do
 
-This trigger looks at each now inserted row. 
+This trigger looks at each new inserted row. 
 
 If it has a mode of SSB, but no submode, it will set USB, unless the TX-Band is 160m, 80m or 40m. 
 
