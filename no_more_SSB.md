@@ -6,7 +6,7 @@
 ```
 ## Why?
 I don't like seeing "SSB" in my log. I wanna have "USB" or "LSB" in there. Why? I don't know. My inner monk doesn't like that.
-Unfortunately, if you import ADIFs from contests or just... other logs, it will take whatever that log thinks it's right. Including "only SSB" without the submode.
+Unfortunately, if you import ADIFs from contests or just... other logs, it will take whatever that log thinks it's right. Including "only SSB" without the submode, which forces me to think about changing that manually via Logbook advanced.
 
 This is a MySQL trigger that forces the Submode depending on the frequency if none is set. 
 
