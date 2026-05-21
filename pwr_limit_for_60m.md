@@ -2,7 +2,10 @@
 
 ## Disclaimer
 ```diff
-- First-off: YOU ARE DOING THIS AT YOUR OWN RISK. I DO NOT TAKE RESPONSIBILTY FOR ANYTHING, INCLUDING DATA LOSS.
+- First-off:
+- YOU ARE DOING THIS AT YOUR OWN RISK. I DO NOT TAKE RESPONSIBILTY FOR ANYTHING, INCLUDING DATA LOSS.
+- NEVER ask the wavelog core-dev team for help if this stuff ever breaks your wavelog.
+- You knew what you were doing when you followed this guide.
 ```
 ## Why?
 On the 60m band, users in Germany have a power limit of 15W EIRP, which comes to about 9W PEP on my setup. 
