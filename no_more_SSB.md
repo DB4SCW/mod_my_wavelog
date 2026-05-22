@@ -3,7 +3,7 @@
 ## Disclaimer
 ```diff
 - First-off:
-- YOU ARE DOING THIS AT YOUR OWN RISK. I DO NOT TAKE RESPONSIBILTY FOR ANYTHING, INCLUDING DATA LOSS.
+- YOU ARE DOING THIS AT YOUR OWN RISK. I DO NOT TAKE RESPONSIBILITY FOR ANYTHING, INCLUDING DATA LOSS.
 - NEVER ask the wavelog core-dev team for help if this stuff ever breaks your wavelog.
 - You knew what you were doing when you followed this guide.
 ```
@@ -51,7 +51,7 @@ END//
 DELIMITER ;
 ```
 
-## Deinstallation
+## Uninstall
 
 If you wanna get rid of it and go back to standard behaviour, run this:
 
