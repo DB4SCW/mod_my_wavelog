@@ -9,4 +9,4 @@ Explore the .md files above to see some of the things I make my wavelog do
 - [Never have SSB without submode again](https://github.com/DB4SCW/mod_my_wavelog/blob/master/no_more_SSB.md)
 - [Get notifications once a new DXCC gets confirmed via LotW](https://github.com/DB4SCW/wavelog_lotw_notifier)
 - [Limit power for 60m band](https://github.com/DB4SCW/mod_my_wavelog/blob/master/pwr_limit_for_60m.md)
-- [cleanup imported contest session comments after wavelog 3.0.0](https://github.com/DB4SCW/mod_my_wavelog/blob/master/clean_contest_session_import.md)
+- [Cleanup imported contest session comments after wavelog 3.0.0](https://github.com/DB4SCW/mod_my_wavelog/blob/master/clean_contest_session_import.md)
